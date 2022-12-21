@@ -1,6 +1,6 @@
 - 👋 Hi, I’m islam mohamed
-- I’m computer science student in facluty of computer and information technology level 3
-- 👀 I’m interested in Backend Develober  and problem solving
+- I’m computer science student in faculty of computer and information technology level 3
+- 👀 I’m interested in Backend Developer  and problem solving
 - 🌱 I’m currently achiving more progress in my career 
 - 📫 How to reach me ...
 linked in -https://www.linkedin.com/in/islam-mohamed-543046217/
