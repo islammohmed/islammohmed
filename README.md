@@ -1,8 +1,8 @@
-- 👋 Hi, I’m islam mohamed
-- I’m computer science student in faculty of computer and information technology level 4
-- 👀 I’m interested in Backend Developer  and problem solving
+- 👋 Hi, I’m islam Saad
+- I’m computer science Graduated - ITI-9 Month Professional Development & BI- infused CRM Trainee
+- 👀 I’m interested in Full-Stack Developer 
 - 🌱 I’m currently achiving more progress in my career 
 - 📫 How to reach me ...
-- gmail: islammohamed3235@gmail.com
-linked in -https://www.linkedin.com/in/islam-mohamed-543046217
+- Gmail: islaam.saad.info@gmail.com
+- linkedin www.linkedin.com/in/islaamsaad
  
